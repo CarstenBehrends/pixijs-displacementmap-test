@@ -1,0 +1,18 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.5;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: rgb(32, 32, 32);
+}
+
+* {
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  box-sizing: border-box;
+}
